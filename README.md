@@ -1,6 +1,6 @@
 # Um CRM juridico completo com funções de gestão de tarefas, processos e prazos inclusas.
 
-    Funções Inclusas: 
+    - Funções Inclusas: 
       -  gerenciamento de clientes
       -  gestão de prazos 
       -  tarefas 
