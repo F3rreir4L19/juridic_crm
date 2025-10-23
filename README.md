@@ -1,4 +1,4 @@
-# Um CRM juridico construido em django para o backend e adminlte para o front end.
+# Um CRM juridico completo com funções de gestão de tarefas, processos e prazos inclusas.
 
     Funções Inclusas: 
       *  gerenciamento de clientes
@@ -9,4 +9,4 @@
       *  consultas a apis publicas 
       *  outros.
 
-O CRM faz uso de um conjunto de templates prontos construidos usando bootstrap chamado de AdminLTE 
+## O CRM faz uso de um conjunto de templates prontos construidos usando bootstrap chamado de AdminLTE 
