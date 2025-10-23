@@ -17,4 +17,9 @@
 * Banco de Dados: SQLite (padrão), com suporte para PostgreSQL e MySQL
 
 ### Instalação
-  Uma das principais funções do projeto. O programa conta com um banco de dados em portgree que ele usa para guardar informações a respeito de processos em andamento ou concluidos, incluindo a opção de inserir notas a respeito dos processos, anexos, associar a clientes cadastrados e delegar tarefas a advogados que tambem fizerem uso do sistema.
+**Clone o repositorio usando:**
+> git clone https://github.com/F3rreir4L19/juridic_crm.git
+
+
+**Primeiramente instale as dependencias do projeto executando o seguinte comando no diretorio :**
+> pip install -r requirements.txt
