@@ -8,3 +8,5 @@
       *  pesquisa de documentos
       *  consultas a apis publicas 
       *  outros.
+
+O CRM faz uso de um conjunto de templates prontos construidos usando bootstrap chamado de AdminLTE 
