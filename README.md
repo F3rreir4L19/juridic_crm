@@ -21,5 +21,5 @@
 > git clone https://github.com/F3rreir4L19/juridic_crm.git
 
 
-**Primeiramente instale as dependencias do projeto executando o seguinte comando no diretorio :**
-> pip install -r requirements.txt
+**depois entre no diretorio criado e instale as dependencias do projeto executando o seguinte comando no diretorio :**
+> pip install -r requirements.txtdepois
